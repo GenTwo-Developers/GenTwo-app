@@ -1,0 +1,12 @@
+.header{
+	display: flex;
+    height: 10%;
+    width: 100%;
+    background-color: #E5E5E5;
+    align-items: center;
+    position: fixed;
+}
+
+.logo-header{
+	text-align: center;
+}
