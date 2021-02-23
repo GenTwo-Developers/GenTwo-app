@@ -6,7 +6,6 @@ function Header(){
     	<header>
     		<h1 className="logo-header">GenTwo</h1>
     	</header>
-
     </div>
     );
 }
