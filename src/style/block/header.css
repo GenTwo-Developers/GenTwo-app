@@ -1,12 +1,16 @@
 .header{
-	display: flex;
   height: 10%;
   width: 100%;
   background-color: #E5E5E5;
+
+  display: flex;
   align-items: center;
   position: fixed;
+  z-index: 500;
 }
-
+.header h1{
+  margin:0%;
+}
 .logo-header{
 	text-align: center;
 }
