@@ -4,7 +4,7 @@ function Header(){
     return(
     <div className="header">
     	<header>
-    		<h1 className="logo-header">GenTwo</h1>
+    		<h1 className="logo-header">GenTwo
     	</header>
     </div>
     );
