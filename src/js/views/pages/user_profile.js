@@ -5,13 +5,13 @@ import Header from 'js/views/components/block/header.js';
 import Contents from 'js/views/components/block/contents.js';
 
 function Userprofile() {
-	return(
-		<div className="Userprofile">
-			<Header/>
-			<Contents/>
-			<ControlBar>
-		</div>
-	};
+  return(
+    <div className="Userprofile">
+      <Header/>
+      <Contents/>
+      <ControlBar>
+    </div>
+  };
 }
 
 
